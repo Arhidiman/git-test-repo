@@ -9,7 +9,8 @@ function App() {
 
         <>
              <div>Hello nigga</div>
-            
+             <div className='yellow-square'></div>
+             <div className='green-square'></div>
         </>
        
         
