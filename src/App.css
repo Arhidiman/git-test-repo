@@ -1,0 +1,17 @@
+.yellow-square {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.green-square {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+.grey-square {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+}
