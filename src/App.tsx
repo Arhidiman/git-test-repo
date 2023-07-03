@@ -8,9 +8,8 @@ function App() {
     return(
 
         <>
-             <div>Hello nigga</div>
-             <div className='yellow-square'></div>
-             <div className='green-square'></div>
+           
+       
              <div className='circle circle-blue'></div>
              <div className='circle circle-orange'></div>
           
