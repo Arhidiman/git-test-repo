@@ -12,7 +12,7 @@ function App() {
        
              <div className='circle blue'></div>
              <div className='circle orange'></div>
-             <div className='circle viloet'></div>
+             <div className='circle violet'></div>
           
         </>
        
