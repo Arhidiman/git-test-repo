@@ -23,11 +23,20 @@
     
 }
 
-.circle-blue {
+.blue {
     background-color: aquamarine;
 }
 
-.circle-orange {
+.orange {
     background-color: orangered;
 }
+
+.violet {
+    background-color: rgb(189, 21, 255);
+}
+
+
+
+
+
 
