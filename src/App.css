@@ -15,3 +15,28 @@
 .grey {
     background-color: grey;
 }
+
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    
+}
+
+.blue {
+    background-color: aquamarine;
+}
+
+.orange {
+    background-color: orangered;
+}
+
+.violet {
+    background-color: rgb(189, 21, 255);
+}
+
+
+
+
+
+
