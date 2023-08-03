@@ -7,7 +7,6 @@ function App() {
     return(
 
         <>
-             <div className='square yellow'></div>
              <div className='square green'></div>
              <div className='square gray'></div>
              <p>
