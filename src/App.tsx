@@ -9,9 +9,9 @@ function App() {
 
         <>
              <div>Hello nigga</div>
-             <div className='yellow-square'></div>
-             <div className='green-square'></div>
-          
+             <div className='square yellow'></div>
+             <div className='square green'></div>
+             <div className='square gray'></div>
         </>
        
         
