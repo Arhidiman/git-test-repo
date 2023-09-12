@@ -10,6 +10,7 @@ function App() {
              <div className='square gray'></div>
              <div className='circle green'></div>
              <div className='circle gray'></div>
+             <h1>10</h1>
             
             
             <h2>Подзаголовок </h2>
