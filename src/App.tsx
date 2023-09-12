@@ -11,8 +11,8 @@ function App() {
              <div className='circle green'></div>
              <div className='circle gray'></div>
              <h1>10</h1>
-            
-            
+             <h1>20</h1>
+             <h1>30</h1>
             <h2>Подзаголовок </h2>
              <p>
                 Когда вы отправляете на удаленный сервер и используете флаг --set-upstream, git устанавливает ветку, на которую вы отправляете, 
